@@ -11,3 +11,6 @@
 1.4 No hay ningun repositorio remoto asociado al local
 
 1.7 Despues de crear el repositorio remoto e introducir los comandos para asociarlo al local, ya se encuentra vinculado
+1.8 ![alt text](image-5.png)
+
+
